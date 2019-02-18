@@ -74,6 +74,4 @@ namespace DataClasses
         public Vector2 position;
         public int strength;
     }
-
-
 }
